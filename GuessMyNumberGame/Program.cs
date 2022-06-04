@@ -1,4 +1,4 @@
-﻿using System;
+﻿using GuessMyNumberGame.OldSkool;
 
 namespace GuessMyNumberGame
 {
@@ -6,7 +6,7 @@ namespace GuessMyNumberGame
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            new GuessMyNumber(3).play();
         }
     }
 }
