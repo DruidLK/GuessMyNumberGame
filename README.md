@@ -4,4 +4,4 @@ It’s simple enough to code up quickly.
 
 Better still for this example, it reads input from the keyboard, outputs to the console, and has a little bit of logic tying the two together.
 
-Perfect.
+Perfect,Make it work then refactor.
